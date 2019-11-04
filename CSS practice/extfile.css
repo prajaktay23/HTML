@@ -8,9 +8,22 @@ h2{
 p{
     color: grey;
 } */
-body{
+/* body{
     color: blue;
 }
 h1,h2{
     color: red;
+} */
+/* 
+#heading{
+    color:green;
+    background-color: black; 
+} */
+
+.green{
+    color: green;
 }
+.red{
+    color: red;
+}
+
